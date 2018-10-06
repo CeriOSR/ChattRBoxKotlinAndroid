@@ -1,0 +1,181 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:2:1-48:12
+MERGED from [io.realm:realm-android-library-object-server:5.7.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.7.0.aar/653e89555460adf29d484692f0e4181a/AndroidManifest.xml:2:1-13:12
+MERGED from [io.realm:realm-android-kotlin-extensions-object-server:5.7.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/realm-android-kotlin-extensions-object-server-5.7.0.aar/01a2a67487fb6aa6a735712568151fcc/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bfc781a83b969975a2d495068640d6b9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/836243bd1a4d8e2cfdb68641bd2c5995/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f4fbdf6dfd68e58c94501a21d4b81b2c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/mei/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/28893ae14325e586239c1c66b1d32f66/AndroidManifest.xml:2:1-14:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/relinker-1.3.0.aar/bc2d369d645365d27b74f030b64b67fd/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5c288a5721413badc65756025accb8a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/81620be080f31d036488b2ede052be43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b178058a649033f76af866f256c3f50b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7eb0790f0899b63258cf932639dc65ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2a4335593cd0755377ca989747f4d4ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/71f0195be0dfac924e070174971030f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/56c6fb0557c51bff9df9c0f525794a0d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bf25ea598dc8d6b84bab02d20d55a04c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7c0a98502ac53f570ff05354b7ecd47b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5e693307e09fb750c721b05cd080f07e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8727cf9fd757a9878a75f0dbbd98474a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:2:1-48:12
+INJECTED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:2:1-48:12
+		INJECTED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:2:1-48:12
+		INJECTED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from [io.realm:realm-android-library-object-server:5.7.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.7.0.aar/653e89555460adf29d484692f0e4181a/AndroidManifest.xml:11:5-67
+MERGED from [io.realm:realm-android-library-object-server:5.7.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.7.0.aar/653e89555460adf29d484692f0e4181a/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:10:5-46:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/836243bd1a4d8e2cfdb68641bd2c5995/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/836243bd1a4d8e2cfdb68641bd2c5995/AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/mei/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/28893ae14325e586239c1c66b1d32f66/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/mei/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/28893ae14325e586239c1c66b1d32f66/AndroidManifest.xml:7:5-12:19
+	android:supportsRtl
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.ceriosrey.chattrbox.MainActivity
+ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:17:9-26:20
+	android:launchMode
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:19:13-43
+	android:noHistory
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.ceriosrey.chattrbox.EssentialsActivity
+ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:27:9-29:55
+	android:launchMode
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:29:13-43
+	android:name
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:28:13-47
+activity#com.ceriosrey.chattrbox.AddItemActivity
+ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:31:9-37:20
+	android:launchMode
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:33:13-43
+	android:name
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:32:13-44
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:34:13-36:55
+	android:value
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:36:17-52
+	android:name
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:35:17-63
+activity#com.ceriosrey.chattrbox.PeopleActivity
+ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:39:9-45:20
+	android:launchMode
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:41:13-43
+	android:name
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml:40:13-43
+uses-sdk
+INJECTED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml
+MERGED from [io.realm:realm-android-library-object-server:5.7.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.7.0.aar/653e89555460adf29d484692f0e4181a/AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library-object-server:5.7.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.7.0.aar/653e89555460adf29d484692f0e4181a/AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-kotlin-extensions-object-server:5.7.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/realm-android-kotlin-extensions-object-server-5.7.0.aar/01a2a67487fb6aa6a735712568151fcc/AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-kotlin-extensions-object-server:5.7.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/realm-android-kotlin-extensions-object-server-5.7.0.aar/01a2a67487fb6aa6a735712568151fcc/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bfc781a83b969975a2d495068640d6b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/bfc781a83b969975a2d495068640d6b9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/836243bd1a4d8e2cfdb68641bd2c5995/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/836243bd1a4d8e2cfdb68641bd2c5995/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f4fbdf6dfd68e58c94501a21d4b81b2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/f4fbdf6dfd68e58c94501a21d4b81b2c/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/mei/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/28893ae14325e586239c1c66b1d32f66/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/mei/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/28893ae14325e586239c1c66b1d32f66/AndroidManifest.xml:5:5-44
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/relinker-1.3.0.aar/bc2d369d645365d27b74f030b64b67fd/AndroidManifest.xml:5:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.3.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/relinker-1.3.0.aar/bc2d369d645365d27b74f030b64b67fd/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5c288a5721413badc65756025accb8a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5c288a5721413badc65756025accb8a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/81620be080f31d036488b2ede052be43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/81620be080f31d036488b2ede052be43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b178058a649033f76af866f256c3f50b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/b178058a649033f76af866f256c3f50b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7eb0790f0899b63258cf932639dc65ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7eb0790f0899b63258cf932639dc65ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2a4335593cd0755377ca989747f4d4ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/2a4335593cd0755377ca989747f4d4ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/71f0195be0dfac924e070174971030f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/mei/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/71f0195be0dfac924e070174971030f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/56c6fb0557c51bff9df9c0f525794a0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/56c6fb0557c51bff9df9c0f525794a0d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bf25ea598dc8d6b84bab02d20d55a04c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bf25ea598dc8d6b84bab02d20d55a04c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7c0a98502ac53f570ff05354b7ecd47b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/7c0a98502ac53f570ff05354b7ecd47b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5e693307e09fb750c721b05cd080f07e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5e693307e09fb750c721b05cd080f07e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8727cf9fd757a9878a75f0dbbd98474a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8727cf9fd757a9878a75f0dbbd98474a/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mei/Android Projects/ChattRBoxAndroid-minSDK21/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [io.realm:realm-android-library-object-server:5.7.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.7.0.aar/653e89555460adf29d484692f0e4181a/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [io.realm:realm-android-library-object-server:5.7.0] /Users/mei/.gradle/caches/transforms-1/files-1.1/realm-android-library-object-server-5.7.0.aar/653e89555460adf29d484692f0e4181a/AndroidManifest.xml:10:22-76
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/mei/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/28893ae14325e586239c1c66b1d32f66/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/mei/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/28893ae14325e586239c1c66b1d32f66/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/mei/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/28893ae14325e586239c1c66b1d32f66/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/mei/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/28893ae14325e586239c1c66b1d32f66/AndroidManifest.xml:9:13-64
