@@ -24,7 +24,7 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.ceriosrey.chattrbox.MainActivity"
+            android:name="com.ceriosrey.chattrbox2.MainActivity"
             android:launchMode="singleTop"
             android:noHistory="true" >
             <intent-filter>
@@ -34,17 +34,17 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.ceriosrey.chattrbox.EssentialsActivity"
+            android:name="com.ceriosrey.chattrbox2.EssentialsActivity"
             android:launchMode="singleTop" />
         <activity
-            android:name="com.ceriosrey.chattrbox.AddItemActivity"
+            android:name="com.ceriosrey.chattrbox2.AddItemActivity"
             android:launchMode="singleTop" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".EssentialsActivity" />
         </activity>
         <activity
-            android:name="com.ceriosrey.chattrbox.PeopleActivity"
+            android:name="com.ceriosrey.chattrbox2.PeopleActivity"
             android:launchMode="singleTop" >
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
